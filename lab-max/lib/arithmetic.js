@@ -12,3 +12,5 @@ exports.sub = function sub(a,b){
   }
   return(a-b);
 };
+
+//what josh helped me with (i miss named the exports and wasnt sure how to pass in the two parameters of a and b)
